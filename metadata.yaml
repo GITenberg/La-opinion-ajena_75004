@@ -1,0 +1,36 @@
+_repo: La-opinion-ajena_75004
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zamacois, Eduardo
+    aliases:
+    - Quintana, Eduardo Zamacois y
+    - Zamacois, E. (Eduardo)
+    birthdate: 1873
+    deathdate: 1971
+    gutenberg_agent_id: '26175'
+    url: http://www.gutenberg.org/2009/agents/26175
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Eduardo_Zamacois
+    - https://es.wikipedia.org/wiki/Eduardo_Zamacois
+description: ''
+gutenberg_issued: '2024-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75004'
+language: es
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015062943991&seq=12
+pgterms:marc905: 20240127053927zamacois
+pgterms:marc906: '1913'
+pgterms:marc907: es
+production_note: Ramón Pajares Box and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from images made available by the HathiTrust
+  Digital Library.)
+publication_note: '  $aMadrid :$bRenacimiento, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La opinión ajena
+url: http://www.gutenberg.org/ebooks/75004
